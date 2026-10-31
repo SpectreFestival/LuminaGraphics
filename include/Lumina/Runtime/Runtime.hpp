@@ -1,0 +1,7 @@
+#ifndef INCLUDED_INCLUDED_LUMINA_RUNTIME_RUNTIME_HPP
+#define INCLUDED_INCLUDED_LUMINA_RUNTIME_RUNTIME_HPP
+#pragma once
+
+#include "Vulkan.hpp"
+
+#endif
